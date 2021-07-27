@@ -4,7 +4,7 @@ Official [dlist.top](https://dlist.top) gateway client for C#.
 
 ## Installation
 
-`dotnet `
+`dotnet add package DlistTop`
 
 ## Setup
 
