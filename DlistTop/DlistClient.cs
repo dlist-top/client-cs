@@ -13,7 +13,7 @@ namespace DlistTop
 {
     public class DlistClient
     {
-        private readonly Uri _gatewayURL = new("wss://gateway.dlist.top");
+        private readonly Uri _gatewayURL = new Uri("wss://gateway.dlist.top");
 
         private string _token;
         private ILogger _logger;

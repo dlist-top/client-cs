@@ -4,7 +4,12 @@
         <TargetFramework>netstandard2.0</TargetFramework>
         <AssemblyName>DlistTop</AssemblyName>
         <RootNamespace>DlistTop</RootNamespace>
-        <LangVersion>9</LangVersion>
+        <LangVersion>8</LangVersion>
+        <PackageProjectUrl>https://github.com/dlist-top/client-cs</PackageProjectUrl>
+        <PackageIconUrl></PackageIconUrl>
+        <RepositoryUrl>https://github.com/dlist-top/client-cs</RepositoryUrl>
+        <RepositoryType>github</RepositoryType>
+        <PackageLicenseUrl>https://github.com/dlist-top/client-cs/blob/master/LICENSE</PackageLicenseUrl>
     </PropertyGroup>
 
     <ItemGroup>
